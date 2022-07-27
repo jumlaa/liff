@@ -5,6 +5,8 @@
 <title>BDS</title>
 </head>
 
-<body>fir
+<body>
+
+Test liff
 </body>
 </html>
